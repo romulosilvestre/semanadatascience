@@ -1,12 +1,15 @@
+```markdown
 # História do Pandas para Python
 
-![Pandas Logo](https://pandas.pydata.org/static/img/pandas_mark.svg)
+<p align="center">
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas Logo" width="100"/>
+  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python Logo" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/512px-NumPy_logo_2020.svg.png" alt="NumPy Logo" width="100"/>
+</p>
 
 ## Introdução
 
 Bem-vindo à história do Pandas, uma das bibliotecas mais poderosas e populares para ciência de dados com Python. Desenvolvida para simplificar a manipulação e análise de dados, o Pandas tem transformado a maneira como trabalhamos com dados em diversas áreas, desde a pesquisa acadêmica até a indústria.
-
-![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
 
 ## Origem do Pandas
 
@@ -38,8 +41,4 @@ O Pandas revolucionou a maneira como manipulamos e analisamos dados em Python, t
 Aproveite ao máximo esta incrível biblioteca e explore todas as suas funcionalidades para transformar seus dados em insights valiosos!
 
 **Bons estudos e feliz análise de dados!**
-
-![Pandas and Python](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/512px-NumPy_logo_2020.svg.png)
-
-
-
+```
