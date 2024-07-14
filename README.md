@@ -1,4 +1,4 @@
-```markdown
+
 # História do Pandas para Python
 
 <p align="center">
@@ -41,4 +41,3 @@ O Pandas revolucionou a maneira como manipulamos e analisamos dados em Python, t
 Aproveite ao máximo esta incrível biblioteca e explore todas as suas funcionalidades para transformar seus dados em insights valiosos!
 
 **Bons estudos e feliz análise de dados!**
-```
